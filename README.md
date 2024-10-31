@@ -1,16 +1,42 @@
-# porfolio
+# Portfolio App
 
-A new Flutter project.
+A personal portfolio mobile app built with Flutter to showcase projects, experience, and profile information. The app highlights a professional summary, list of projects, and work experience, all presented in an elegant UI design.
+
+![portfolio_(ui)](https://github.com/user-attachments/assets/8c6aeaf1-ecea-463f-91ae-378e3bded69e)
+
+
+
+## Features
+
+- **Profile Overview**: Displays a profile photo, name, and a brief title with key metrics (Projects, Skills, Experience).
+- **Projects Section**: Showcases individual projects with descriptions and custom icons/images.
+- **Experience Section**: Lists work experience with company names, roles, and durations.
+
+## Screens
+
+1. **Projects Page**: Lists projects with visuals and descriptions, allowing users to explore each project in detail.
+2. **Profile Page**: Highlights the user's profile with a summary of experience, skills, and project count.
+3. **Experience Page**: Displays work experience with clear, organized timelines.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) should be installed on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Fairooz14/Portfolio_flutter.git
+   cd portfolio-app
+   ```
+2. Install dependencies:
+   ```
+   flutter pub get
+   ```
+3. Run the app on an emulator or physical device:
+   ```
+   flutter run
+   ```
