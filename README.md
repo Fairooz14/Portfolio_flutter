@@ -30,7 +30,7 @@ A personal portfolio mobile app built with Flutter to showcase projects, experie
 1. Clone the repository:
    ```bash
    git clone https://github.com/Fairooz14/Portfolio_flutter.git
-   cd portfolio-app
+   cd portfolio_flutter
    ```
 2. Install dependencies:
    ```
